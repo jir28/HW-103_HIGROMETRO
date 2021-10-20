@@ -34,7 +34,7 @@ int main (void){
 	  if(digitalRead(SEN)==0){
 		  
 		  digitalWrite (BLUE, HIGH);
-          printf("Hay Humedad \n");
+         	  printf("Hay Humedad \n");
           
 	  }
           
