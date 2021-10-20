@@ -1,3 +1,7 @@
+/*
+ Jair Zamorano Garcia UAM Lerma
+ */
+
 #include <wiringPi.h>
 #include <stdio.h>
 #include <time.h>
